@@ -71,7 +71,7 @@ public class MainActivity extends Activity implements SensorEventListener {
         }
         if (event.values[0] < -40) {
             xText.setText("X: " + "Twitter");
-            Intent launchIntent = getPackageManager().getLaunchIntentForPackage("com.accuweather.android");
+            Intent launchIntent = getPackageManager().getLaunchIntentForPackage("com.twitter.android");
             if (launchIntent != null) {
                 startActivity(launchIntent);//null pointer check in case package name was not found
             }

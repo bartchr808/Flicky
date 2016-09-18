@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Bart/AndroidStudioProjects/Accelerometer/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/Bart/AndroidStudioProjects/Accelerometer/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1-6fb3447c1067c59b7a41533d4c4685e0e1d1d412.jar" />
+    </item>
+    <item
+        jar="/Users/Bart/AndroidStudioProjects/Accelerometer/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/Bart/AndroidStudioProjects/Accelerometer/app/build/intermediates/pre-dexed/debug/classes-de2d1db1018ef6ecaeb20a7f51c414d90b4e4ea5.jar" />
+    </item>
+    <item
+        jar="/Users/Bart/AndroidStudioProjects/Accelerometer/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/Bart/AndroidStudioProjects/Accelerometer/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1-dc34bec0505eecd72d6482ff3e74a53772267708.jar" />
+    </item>
+    <item
+        jar="/Users/Bart/AndroidStudioProjects/Accelerometer/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/Bart/AndroidStudioProjects/Accelerometer/app/build/intermediates/pre-dexed/debug/classes-f55e91b41a0b0943475a2f9fbe3fbdc7a7f8bb78.jar" />
+    </item>
+    <item
+        jar="/Users/Bart/AndroidStudioProjects/Accelerometer/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/Bart/AndroidStudioProjects/Accelerometer/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1-b63d69129c49b0b4a30cc276a0788460935a842d.jar" />
+    </item>
+    <item
+        jar="/Users/Bart/AndroidStudioProjects/Accelerometer/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/Bart/AndroidStudioProjects/Accelerometer/app/build/intermediates/pre-dexed/debug/classes-d673663bc4d959ab6dca4c54b526ca9ecd9de8c8.jar" />
+    </item>
+    <item
+        jar="/Users/Bart/AndroidStudioProjects/Accelerometer/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/Bart/AndroidStudioProjects/Accelerometer/app/build/intermediates/pre-dexed/debug/classes-d77bc347d9a2c46b7ca86363286a2939d7f8e2e8.jar" />
+    </item>
+    <item
+        jar="/Users/Bart/AndroidStudioProjects/Accelerometer/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/Bart/AndroidStudioProjects/Accelerometer/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1-39c1f998ef756edf8f01830eb76887608aeb719e.jar" />
+    </item>
+    <item
+        jar="/Users/Bart/AndroidStudioProjects/Accelerometer/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/Bart/AndroidStudioProjects/Accelerometer/app/build/intermediates/pre-dexed/debug/classes-4b5a1235b34495192aaa7e888ffd24d63373fcc7.jar" />
+    </item>
+    <item
+        jar="/Users/Bart/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/Bart/AndroidStudioProjects/Accelerometer/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1-7e137e5265979e052e2a874865f7a5487046f396.jar" />
+    </item>
+    <item
+        jar="/Users/Bart/AndroidStudioProjects/Accelerometer/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/Bart/AndroidStudioProjects/Accelerometer/app/build/intermediates/pre-dexed/debug/classes-084981e1a21b458c0f7c1a221034a45e25fc5af5.jar" />
+    </item>
+    <item
+        jar="/Users/Bart/AndroidStudioProjects/Accelerometer/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Bart/AndroidStudioProjects/Accelerometer/app/build/intermediates/pre-dexed/debug/classes-fc80897a4368b80cd5862f5adf3c40b30ef3d0bc.jar" />
+    </item>
+    <item
+        jar="/Users/Bart/AndroidStudioProjects/Accelerometer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/Bart/AndroidStudioProjects/Accelerometer/app/build/intermediates/pre-dexed/debug/classes-47fc9abadbb99619037f1e2b29e88153d8611551.jar" />
+    </item>
+    <item
+        jar="/Users/Bart/AndroidStudioProjects/Accelerometer/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/Bart/AndroidStudioProjects/Accelerometer/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1-6740cc4909d91fc7ff73936db612ffe939bc9da2.jar" />
+    </item>
+    <item
+        jar="/Users/Bart/AndroidStudioProjects/Accelerometer/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/Bart/AndroidStudioProjects/Accelerometer/app/build/intermediates/pre-dexed/debug/classes-d03944c5080f5351b9c4b8190bd432ab4626c88b.jar" />
+    </item>
+
+</items>
